@@ -1,17 +1,10 @@
 // ==UserScript==
-// @name        hvAutoAttack
-// @name:zh-CN  【HV】打怪
-// @name:zh-TW  【HV】打怪
-// @author      Dodying
+// @name        AutoAttack
 // @namespace   https://github.com/dodying/UserJs
 // @supportURL  https://github.com/dodying/UserJs/issues
-// @icon        https://raw.githubusercontent.com/dodying/UserJs/master/Logo.png
-// @description HV auto attack script, for the first user, should configure before use it.
-// @description:zh-CN HV自动打怪脚本，初次使用，请先设置好选项
-// @description:zh-TW HV自動打怪腳本，初次使用，請先設置好選項
 // @include     http://hentaiverse.org/*
 // @exclude     http://hentaiverse.org/pages/showequip.php?*
-// @version     2.521
+// @version     2.600
 // @grant       GM_addStyle
 // @run-at      document-end
 // ==/UserScript==
